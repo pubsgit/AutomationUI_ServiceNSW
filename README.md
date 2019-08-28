@@ -15,13 +15,18 @@ Ex: Like “Sydney Domestic Airport 2020” and it should be having “Rockdale 
 
 This Project is Complete Maven Suite with all the required binaries and drivers packed into so no need to download any files or binaries.
 
-All the path settings have been taken care of.
+All the path settings have been taken care.
+
 Page Object are used to modify elements in their respective pages.
+
 You can choose to run Automation tests against  
+
     local browsers [ Chrome or Firefox or IE Edge ]
     selenium grid  [Provide the IP address of HUB ] 
     headless [Headless Chrome browser]
+    
 All the Test Data required is in the /src/main/java/resources.
+
 Maven .pom files has all the required dependies that would be downloaded( from mvn repository) once the project is opened in Eclipse.
 
 
