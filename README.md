@@ -32,7 +32,9 @@ Eclipse should be Installed in system.
 
 How to run the Suite:
 1)  Clone the repository to your desktop:
+    
     git clone https://github.com/pubsgit/AutomationUI_ServiceNSW.git
+    
     This would results in pulling all the files needed to required to run the tests
     
 2)  Opne the folder in Eclipse:
