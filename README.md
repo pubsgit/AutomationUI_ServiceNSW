@@ -5,7 +5,7 @@ This Automation Project is to Check if a Particular Service Center Location is p
 This Project Test case covers the below test Steps:
 
 1. Navigate to https://www.service.nsw.gov.au/
-2. Search for"Applyfora numberplate"
+2. Search for"Apply for a number plate"
    Validate the navigation to appropriate page
 3. Clickon Locate us button
 4. Enter suburb"Sydney 2000" -> Modify this in Data Properties files for a different suburb. 
