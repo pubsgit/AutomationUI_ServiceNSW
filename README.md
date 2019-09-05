@@ -17,7 +17,7 @@ This Project is Complete Maven Suite with all the required binaries and drivers 
 
 All the path settings have been taken care.
 
-Page Object are used to modify elements in their respective pages.
+Page Objects are used to modify elements in their respective pages.
 
 You can choose to run Automation tests against  
 
