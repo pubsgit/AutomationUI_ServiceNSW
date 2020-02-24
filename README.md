@@ -45,7 +45,8 @@ How to run the Suite:
 2)  Opne the folder in Eclipse:
     
     You can trigget the tests using the below methods.
-    
+ 
+ ```  
     TestNG Suite:   
     testng.xml -> Right Click -> Run As -> TestNG Suite
     
@@ -53,5 +54,6 @@ How to run the Suite:
     /src/test/java/revolutionit/NswLocationSearch.java    -> right click - > Run As -> TestNG test.
     
 Finally Enjoy!
+```
     
     
